@@ -1,5 +1,8 @@
 # caesar-vue
 
+Github pages:
+https://zste.github.io/Caesar/
+
 ## Project setup
 ```
 npm install
